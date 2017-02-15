@@ -1,5 +1,5 @@
 # teste
 teste
 
-Incluindo uma menagem 
+Incluindo uma menagem\n
 Incluindo uma segunda mensagem
